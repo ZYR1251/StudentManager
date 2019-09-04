@@ -1,0 +1,3 @@
+# StudentManager
+StudentManager
+该程序为spring实现一个简单的学生信息管理系统
